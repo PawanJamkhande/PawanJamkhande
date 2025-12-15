@@ -105,4 +105,4 @@ Security-focused **URL Risk Analysis Tool**
 - LinkedIn: [@PAWAN JAMKHANDE](https://www.linkedin.com/in/pawan-jamkhande-7735b62a7)
 ---
 
-⭐ *Building slowly, building solid.*
+
