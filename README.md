@@ -45,9 +45,9 @@ Building real-world systems with clean logic, scalable backend, and usable inter
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🏥 MediMetrics (WaveOPS)
+### MediMetrics (WaveOPS)
 Medical Representative **Tracking & Management System**
 
 - GeoFencing-based activity tracking  
@@ -59,7 +59,7 @@ Medical Representative **Tracking & Management System**
 
 ---
 
-### 🌾 Sahayika
+### Sahayika
 AI-powered **Smart Agriculture Platform**
 
 - Crop & fertilizer recommendations  
@@ -70,7 +70,7 @@ AI-powered **Smart Agriculture Platform**
 
 ---
 
-### 🛡 Scambaiters
+### Scambaiters
 Security-focused **URL Risk Analysis Tool**
 
 - Domain & SSL checks  
@@ -81,7 +81,7 @@ Security-focused **URL Risk Analysis Tool**
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawanJamkhande&show_icons=true&theme=github_dark&hide_border=true)
 
@@ -89,7 +89,7 @@ Security-focused **URL Risk Analysis Tool**
 
 ---
 
-## 🎯 What I’m Focusing On Now
+## What I’m Focusing On Now
 
 - Advanced **Java & frontend development**
 - UI designing and modelling
@@ -99,10 +99,10 @@ Security-focused **URL Risk Analysis Tool**
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 - GitHub: [@PawanJamkhande](https://github.com/PawanJamkhande)
-
+- LinkedIn: [@PAWAN JAMKHANDE](https://www.linkedin.com/in/pawan-jamkhande-7735b62a7)
 ---
 
 ⭐ *Building slowly, building solid.*
