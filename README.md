@@ -1,21 +1,21 @@
-# Hi, I'm Pawan 👋  
+# Hi, I'm Pawan   
 
 **Java Developer | Web App Developer | UI/UX**  
 Building real-world systems with clean logic, scalable backend, and usable interfaces.
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Computer Engineering student  
-- 💻 Strong focus on **Java**, **Web Application Development**, and **Backend systems**
-- 🎨 I design clean, functional UIs using **Figma**
-- 🔐 Interested in **system design, security-aware development**, and real-world problem solving
-- 🚀 Currently rebuilding my tech career with consistent skills & projects
+-  Computer Engineering student  
+-  Strong focus on **Java**, **Web Application Development**, and **Backend systems**
+-  I design clean, functional UIs using **Figma**
+-  Interested in **system design, security-aware development**, and real-world problem solving
+-  Currently rebuilding my tech career with consistent skills & projects
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Languages
 - **Java**
@@ -38,7 +38,7 @@ Building real-world systems with clean logic, scalable backend, and usable inter
 
 ### Tools & Platforms
 - Git & GitHub
-- Linux / Kali Linux
+- Linux 
 - VS Code
 - Android Studio
 - Figma (UI/UX Design)
