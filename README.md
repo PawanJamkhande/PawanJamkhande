@@ -18,30 +18,16 @@ Building real-world systems with clean logic, scalable backend, and usable inter
 ##  Tech Stack
 
 ### Languages
-- **Java**
-- Python
-- Kotlin
-- JavaScript
-- SQL
+- **Java** - Python - Kotlin - JavaScript - SQL
 
 ### Web & Backend
-- React.js
-- Node.js
-- Express.js
-- PHP
-- Flask
-- REST APIs
+- React.js - Node.js - Express.js - PHP - Flask - REST APIs
 
 ### Databases
-- MySQL
-- MongoDB
+- MySQL - MongoDB
 
 ### Tools & Platforms
-- Git & GitHub
-- Linux 
-- VS Code
-- Android Studio
-- Figma (UI/UX Design)
+- Git & GitHub - Linux - VS Code - Android Studio - Figma (UI/UX Design)
 
 ---
 
