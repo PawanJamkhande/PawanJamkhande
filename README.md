@@ -1,94 +1,102 @@
-# Hi, I'm Pawan   
+<div align="center">
 
-**Java Developer | Web App Developer | UI/UX**  
-Building real-world systems with clean logic, scalable backend, and usable interfaces.
+<img src="https://avatars.githubusercontent.com/u/142239059?v=4" width="150" height="150" style="border-radius:50%;" alt="Pawan Jamkhande"/>
 
----
+# Pawan Jamkhande
 
-##  About Me
+**Java Software Developer&nbsp;|&nbsp;Spring Boot&nbsp;|&nbsp;REST APIs&nbsp;|&nbsp;Backend Development&nbsp;|&nbsp;Scalable Systems**
 
--  Computer Engineering student  
--  Strong focus on **Java**, **Web Application Development**, and **Backend systems**
--  I design clean, functional UIs using **Figma**
--  Interested in **system design, security-aware development**, and real-world problem solving
--  Currently rebuilding my tech career with consistent skills & projects
+Building real-world systems with clean logic, scalable backends, and usable interfaces.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-jamkhande-7735b62a7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawan.jamkhande002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PawanJamkhande)
 
-##  Tech Stack
+![Profile Views](https://komarev.com/ghpvc/?username=PawanJamkhande&style=for-the-badge&color=blue)
 
-### Languages
-- **Java** - Python - Kotlin - JavaScript - SQL
-
-### Web & Backend
-- React.js - Node.js - Express.js - PHP - Flask - REST APIs
-
-### Databases
-- MySQL - MongoDB
-
-### Tools & Platforms
-- Git & GitHub - Linux - VS Code - Android Studio - Figma (UI/UX Design)
+</div>
 
 ---
 
-## Featured Projects
+### `~/ whoami`
 
-### MediMetrics (WaveOPS)
-Medical Representative **Tracking & Management System**
+```
+$ cat about.txt
+```
 
-- GeoFencing-based activity tracking  
-- Daily reporting & admin dashboard  
-- Android (Jetpack Compose) + Web backend  
-- Inaugurated government schemes
-  
-**Tech:** Kotlin, PHP, React, SQL, Node Js
+Java Software Developer with a solid foundation in Core Java, OOP, Spring Boot, Hibernate, SQL, and Git. I design and build scalable backend applications and RESTful APIs, with a strong focus on clean, maintainable code and efficient problem-solving. Currently pursuing my B.E. in Computer Engineering at Saraswati College of Engineering, Navi Mumbai (CGPA 7.97/10), and looking to contribute to and grow within a collaborative software development team.
 
----
-
-### Sahayika
-AI-powered **Smart Agriculture Platform**
-
-- Crop & fertilizer recommendations  
-- Yield & rainfall prediction  
-- Farmer–customer integration  
-
-**Tech:** Python, ML, PHP, Web stack  
+- Based in Navi Mumbai, India
+- Focused on backend engineering: Spring Boot, Hibernate/JPA, REST APIs, MySQL
+- Also comfortable across the stack — Angular, React, Node.js, MongoDB
+- Certified in Java & DSA (Scaler Academy), Java Fundamentals (Scaler Academy), and Software Development (Edubridge Learning)
 
 ---
 
-### Scambaiters
-Security-focused **URL Risk Analysis Tool**
+### `~/ toolbox`
 
-- Domain & SSL checks  
-- PhishTank, redirects & reputation analysis  
-- Safety score (0–100)  
+<div align="center">
 
-**Tech:** Python, Flask  
+![Skills](https://skillicons.dev/icons?i=java,spring,py,js,ts,html,css,angular,react,nodejs,bootstrap,tailwind,mysql,mongodb,git,github,vscode,postman,opencv)
 
----
-
-## GitHub Stats
-
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawanJamkhande&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanJamkhande&layout=compact&theme=github_dark&hide_border=true)
+</div>
 
 ---
 
-## What I’m Focusing On Now
+### `~/ featured_projects`
 
-- Advanced **Java & frontend development**
-- UI designing and modelling
-- Clean architecture & design patterns
-- Real-world web applications
-- Consistent GitHub contributions
+**Full-Stack Movie Rating System** — [Live Demo](https://movie-rating-frontend-79j7.vercel.app) · *Jan 2026 – Present*
+- Role-based access control: admins manage the catalog, users rate & review titles
+- Self-generating MySQL schema via JPA/Hibernate — zero manual SQL, multi-genre tagging, duplicate-rating constraint
+- Live rating aggregation with optimized JPQL queries for real-time averages
+
+`Tech: Java · Spring Boot · MySQL · Angular · TypeScript`
+
+**MediMetrics** — Medical Representative Geofencing Tracker
+- Real-time, geofencing-based location tracking for field reps
+- Web-based admin dashboard for location-verified activity reporting
+- Streamlined field-reporting workflows to cut manual verification effort
+
+`Tech: Kotlin · PHP · React · SQL · Node.js`
+
+**Sahayika** — AI-Powered Smart Agriculture System
+- AI/ML models for crop & fertilizer recommendations, disease detection, and yield/rainfall prediction
+- Multilingual portals with direct crop-selling and AI chat assistance
+
+`Tech: Python · ML · PHP · Web stack`
+
+**Image Caption Generator** — Deep learning image captioning
+- CNN-based visual feature extraction combined with Transformer-based sequence generation
+- Produces coherent, contextually accurate natural-language captions
+
+`Tech: Python · Deep Learning · CNN · Transformers`
 
 ---
 
-## Let’s Connect
+### `~/ github_stats`
 
-- GitHub: [@PawanJamkhande](https://github.com/PawanJamkhande)
-- LinkedIn: [@PAWAN JAMKHANDE](https://www.linkedin.com/in/pawan-jamkhande-7735b62a7)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PawanJamkhande&show_icons=true&theme=github_dark&hide_border=true" width="49%" alt="Pawan's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanJamkhande&layout=compact&theme=github_dark&hide_border=true" width="35%" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanJamkhande&theme=github-dark-blue&hide_border=true" width="49%" alt="Streak stats"/>
+
+</div>
+
 ---
 
+### `~/ focus_now`
 
+- Deepening Spring Boot, Hibernate/JPA, and REST API design
+- Clean architecture & design patterns for scalable backends
+- Full-stack delivery: Angular/React frontends over Java backends
+- Consistent GitHub contributions and project shipping
+
+---
+
+<div align="center">
+
+**Let's connect** — [LinkedIn](https://www.linkedin.com/in/pawan-jamkhande-7735b62a7) · [GitHub](https://github.com/PawanJamkhande)
+
+</div>
