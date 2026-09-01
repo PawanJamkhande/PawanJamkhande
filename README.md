@@ -37,7 +37,7 @@ Java Software Developer with a solid foundation in Core Java, OOP, Spring Boot, 
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=java,spring,py,js,ts,html,css,angular,react,nodejs,bootstrap,tailwind,mysql,mongodb,git,github,vscode,postman,opencv)
+![Skills](https://skillicons.dev/icons?i=java,spring,hibernate,angular,ts,mysql,html,css,js,postman,react,github)
 
 </div>
 
