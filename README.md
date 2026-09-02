@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/142239059?v=4" width="150" height="150" style="border-radius:50%;" alt="Pawan Jamkhande"/>
+<img src="./portrait_fadein.gif" width="220" alt="Pawan Jamkhande"/>
 
 # Pawan Jamkhande
 
@@ -77,8 +77,8 @@ Java Software Developer with a solid foundation in Core Java, OOP, Spring Boot, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PawanJamkhande&show_icons=true&theme=github_dark&hide_border=true" width="49%" alt="Pawan's GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanJamkhande&layout=compact&theme=github_dark&hide_border=true" width="35%" alt="Top Languages"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=PawanJamkhande&show_icons=true&theme=github_dark&hide_border=true" width="49%" alt="Pawan's GitHub stats"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PawanJamkhande&layout=compact&theme=github_dark&hide_border=true" width="35%" alt="Top Languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanJamkhande&theme=github-dark-blue&hide_border=true" width="49%" alt="Streak stats"/>
 
