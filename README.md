@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./portrait_fadein.gif" width="220" alt="Pawan Jamkhande"/>
+<img src="./portrait_fadein.webp" width="220" alt="Pawan Jamkhande"/>
 
 # Pawan Jamkhande
 
